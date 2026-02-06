@@ -14,9 +14,9 @@ Download RGB-T SOD dataset from [https://pan.baidu.com/s/1Vw4ysRuVYP408t9zELXeqw
 
 Download pretrained backbone weights from [https://pan.baidu.com/s/1gYoa542ET-DgdZA_kYcaMA?pwd=1219 提取码: 1219]
 
-Training command :python train.py
+Training command :python CANet_train.py
 
-Testing command :python test.py
+Testing command :python CANet_test.py
 
 Results: Qualitative results: we provide the prediction maps of RGB-D COD\RGB-D SOD\RGB-T SOD task, you can download them from [https://pan.baidu.com/s/1ppZI9KZY2XlPpC_jF7VtpQ?pwd=1219 提取码: 1219 ]
 
