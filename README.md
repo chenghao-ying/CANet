@@ -1,6 +1,6 @@
-# CANet: A Commonness Aggregation Network with Cross-Modal for RGB-D Camouflaged Object Detection
+# CANet: A Commonality Aggregation Network with Cross-Modal for RGB-D Camouflaged Object Detection
 This repository includes the trained model, code and results for our paper:
-CANet: A Commonness Aggregation Network with Cross-Modal for RGB-D Camouflaged Object Detection. The Visual Computer
+CANet: A Commonality Aggregation Network with Cross-Modal for RGB-D Camouflaged Object Detection. The Visual Computer
 
 1. Required libraries
 python = 3.11.5 conda = 23.7.4 pytorch = 2.1.0 numpy = 1.24.3 torchvision = 0.16.0
